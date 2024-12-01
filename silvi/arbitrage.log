@@ -1,0 +1,494 @@
+2024-11-28 23:34:09,534 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:34:10,498 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:34:10,727 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:34:10,922 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:34:11,244 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:34:11,423 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:34:41,671 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:34:41,868 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:34:42,050 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:34:42,202 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:34:42,382 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:34:42,560 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:35:12,814 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:35:13,099 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:35:13,269 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:35:13,579 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:35:13,774 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:35:14,042 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:35:44,323 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:35:44,510 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:35:44,674 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:35:44,850 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:35:45,011 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:35:45,187 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:36:15,721 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:36:16,021 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:36:16,245 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:36:16,405 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:36:16,590 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:36:16,760 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:36:47,170 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:36:47,370 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:36:47,533 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:36:47,697 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:36:47,875 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:36:48,155 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:37:18,391 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:37:18,594 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:37:18,794 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:37:19,037 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:37:19,224 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:37:19,400 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:37:49,629 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:37:49,849 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:37:50,029 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:37:50,215 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:37:50,410 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:37:50,583 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:38:20,808 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:38:21,002 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:38:21,166 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:38:21,347 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:38:21,582 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:38:21,761 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:38:51,997 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:38:52,241 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:38:52,424 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:38:52,614 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:38:52,788 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:38:52,971 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:39:23,567 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:39:23,978 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:39:24,284 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:39:24,493 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:39:24,649 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:39:24,818 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:39:55,033 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:39:55,340 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:39:55,542 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:39:55,814 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:39:56,070 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:39:56,266 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:40:26,654 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:40:26,878 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:40:27,159 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:40:27,324 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:40:27,505 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:40:27,778 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:40:58,031 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:40:58,266 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:40:58,463 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:40:58,645 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:40:58,846 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:40:59,042 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:41:29,319 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:41:29,555 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:41:29,745 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:41:29,967 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:41:30,135 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:41:30,292 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:42:00,549 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-28 23:42:00,760 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-28 23:42:00,945 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-28 23:42:01,145 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-28 23:42:01,321 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-28 23:42:01,532 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-28 23:42:33,408 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C882FD0>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-28 23:42:33,412 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C884990>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-28 23:42:33,416 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C886350>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-28 23:42:33,421 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C890390>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-28 23:42:33,426 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8922D0>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-28 23:42:33,430 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C886A50>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-29 02:43:00,821 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C885290>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-29 02:43:00,825 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C881A10>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-29 02:43:00,830 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C890550>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-29 02:43:00,834 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8A4250>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-29 02:43:00,840 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8A61D0>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-29 02:43:00,845 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C866810>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:29:34,540 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C893E10>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:29:34,544 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C884790>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:29:34,550 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8858D0>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:29:34,555 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8A4450>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:29:35,871 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8AC1D0>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:29:35,889 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C885610>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 15:30:07,764 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:30:08,071 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:30:08,289 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:30:08,528 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:30:08,753 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:30:08,943 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:30:39,225 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:30:39,456 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:30:39,652 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:30:39,826 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:30:40,018 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:30:40,189 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:31:11,013 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:31:11,245 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:31:11,502 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:31:11,699 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:31:11,953 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:31:12,122 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:31:42,382 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:31:42,585 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:31:42,894 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:31:43,472 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:31:43,861 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:31:44,265 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:32:14,535 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:32:14,925 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:32:15,136 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:32:15,335 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:32:15,649 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:32:15,855 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:32:46,308 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:32:46,537 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:32:46,809 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:32:47,012 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:32:47,292 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:32:47,509 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:33:17,831 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:33:18,051 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:33:18,273 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:33:18,442 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:33:19,818 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:33:20,019 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:33:50,337 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:33:50,549 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:33:50,757 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:33:51,319 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:33:51,566 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:33:51,755 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:34:22,041 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:34:22,246 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:34:22,438 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:34:22,624 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:34:22,818 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:34:23,022 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:34:53,239 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:34:53,512 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:34:53,698 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:34:53,871 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:34:54,050 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:34:54,210 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:35:24,449 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:35:24,752 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:35:24,927 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:35:25,091 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:35:25,252 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:35:25,429 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:35:55,634 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:35:55,832 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:35:56,022 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:35:56,278 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:35:56,460 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:35:56,615 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:36:26,910 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:36:27,143 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:36:27,343 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:36:27,516 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:36:27,773 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:36:27,940 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:36:58,303 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:36:58,511 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:36:58,777 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:36:58,960 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:36:59,188 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:36:59,363 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:37:29,635 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:37:29,885 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:37:30,080 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:37:30,258 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:37:30,518 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:37:30,804 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:38:01,073 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:38:01,280 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:38:01,482 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:38:01,683 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:38:01,947 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:38:02,132 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:38:32,427 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:38:32,910 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:38:33,111 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:38:33,301 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:38:33,531 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:38:33,771 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:39:04,061 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:39:04,413 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:39:04,695 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:39:04,866 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:39:05,050 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:39:05,191 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:39:35,559 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:39:35,827 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:39:36,041 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:39:36,217 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:39:36,440 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:39:36,638 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:40:06,881 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:40:07,141 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:40:07,349 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:40:07,631 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:40:07,851 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:40:08,034 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:40:38,331 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:40:38,525 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:40:38,710 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:40:38,897 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:40:39,116 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:40:39,281 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:41:09,581 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:41:09,957 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:41:10,214 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:41:10,409 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:41:10,639 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:41:10,846 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:41:41,093 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:41:41,330 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:41:41,586 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:41:41,768 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:41:41,973 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:41:42,180 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:42:12,376 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:42:12,575 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:42:12,864 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:42:13,048 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:42:13,230 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:42:13,407 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:42:43,643 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:42:43,848 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:42:44,077 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:42:44,282 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:42:44,505 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:42:44,679 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:43:15,001 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:43:15,216 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:43:15,448 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:43:15,632 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:43:15,886 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:43:16,068 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:43:47,696 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:43:47,923 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:43:48,092 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:43:48,264 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:43:48,602 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:43:48,767 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:44:19,032 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:44:19,260 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:44:19,553 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:44:19,749 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:44:20,003 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:44:20,168 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:44:50,479 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:44:50,712 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:44:50,923 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:44:51,099 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:44:51,369 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:44:51,536 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:45:21,835 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:45:22,106 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:45:22,299 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:45:22,497 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:45:22,709 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:45:22,960 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:45:53,196 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:45:53,420 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:45:53,605 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:45:53,779 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:45:54,040 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:45:54,233 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:46:24,588 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:46:24,792 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:46:24,958 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:46:25,146 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:46:25,400 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:46:25,575 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 15:46:55,876 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-11-30 15:46:56,132 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-11-30 15:46:56,362 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-11-30 15:46:56,573 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-11-30 15:46:56,755 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-11-30 15:46:56,935 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-11-30 18:47:25,388 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C893FD0>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 18:47:25,394 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C883D50>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 18:47:25,400 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C872C90>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 18:47:25,407 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8ACB10>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 18:47:25,413 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8AEA10>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-30 18:47:25,418 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8705D0>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:00:56,303 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C882790>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:00:56,321 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=football (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8929D0>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:00:56,329 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C884890>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:00:56,336 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=tennis (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8ACBD0>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:00:56,342 - ERROR - Error fetching Pinnacle odds: HTTPSConnectionPool(host='api.pinnacle.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C8B8A50>: Failed to resolve 'api.pinnacle.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:00:56,364 - ERROR - Error fetching Betfair odds: HTTPSConnectionPool(host='api.betfair.com', port=443): Max retries exceeded with url: /exchange/betting/rest/v1.0/listMarketBook?sport=basketball (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022C9C885E90>: Failed to resolve 'api.betfair.com' ([Errno 11001] getaddrinfo failed)"))
+2024-12-01 16:01:27,942 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 16:01:28,332 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 16:01:28,520 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 16:01:28,727 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 16:01:28,911 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 16:01:29,094 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 16:01:59,320 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 16:01:59,521 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 16:01:59,705 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 16:01:59,894 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 16:02:00,540 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 16:02:00,713 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 16:02:31,012 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 16:02:31,213 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 16:02:31,423 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 16:02:31,679 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 16:02:32,144 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 16:02:32,396 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 16:03:02,645 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 16:03:02,964 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 16:03:03,177 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 16:03:03,437 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 16:03:03,622 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 16:03:03,789 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 16:03:34,025 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 16:03:34,297 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 16:03:34,613 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 16:03:34,795 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 16:03:34,986 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 16:03:35,198 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 16:04:05,494 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 16:04:05,724 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 16:04:05,938 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 16:04:06,158 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 16:04:06,433 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 16:04:06,648 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:45:08,417 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:45:09,588 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:45:10,539 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:45:11,494 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:45:32,598 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA90C50>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:45:33,666 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:45:34,807 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:45:35,695 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:45:36,585 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:45:57,631 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA92C90>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:45:58,792 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:45:59,711 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:46:00,553 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:46:01,527 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:46:22,567 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA9AA10>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:46:53,592 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:46:54,445 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:46:55,262 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:46:56,094 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:47:17,146 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA99A50>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:47:18,090 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:47:19,105 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:47:20,012 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:47:20,945 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:47:41,987 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA9A110>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:47:42,973 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:47:44,011 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:47:44,930 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:47:45,882 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:48:06,937 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA91DD0>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:48:37,769 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:48:38,883 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:48:39,701 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:48:40,537 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:49:01,568 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA90710>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:49:02,514 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:49:03,472 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:49:04,370 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:49:05,271 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:49:26,328 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAA8950>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:49:27,486 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:49:28,423 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:49:29,287 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:49:30,321 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:49:51,372 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAAAE90>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:50:22,224 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:50:23,156 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:50:23,963 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:50:24,891 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:50:45,942 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA6BF10>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:50:46,961 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:50:47,896 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:50:49,064 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:50:49,889 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:51:10,947 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA93A10>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:51:11,890 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:51:12,883 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:51:13,719 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:51:14,616 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:51:35,693 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAA9310>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:52:06,583 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:52:07,575 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:52:08,507 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:52:09,370 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:52:30,414 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAA8D10>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:52:31,428 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:52:32,425 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:52:33,301 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:52:34,248 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:52:55,297 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA99FD0>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:52:56,292 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:52:57,233 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:52:58,091 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:52:59,047 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:53:20,079 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA9B490>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:53:51,223 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:53:52,182 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:53:53,137 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:53:54,095 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:54:15,146 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAA8D90>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:54:24,103 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:54:24,902 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:54:25,793 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:54:26,762 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:54:47,815 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAAB450>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:54:48,826 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:54:49,837 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:54:50,800 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:54:51,685 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:55:12,757 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA90DD0>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:55:43,915 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:55:44,760 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:55:45,550 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:55:46,352 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:56:07,444 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA82A10>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:56:08,333 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:56:09,328 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:56:10,245 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:56:11,227 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:56:32,272 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAB5750>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:56:33,253 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:56:34,202 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:56:35,118 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:56:36,013 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:56:57,064 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA6AF90>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:57:27,947 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:57:28,887 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:57:29,769 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:57:30,761 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:57:51,822 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA939D0>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:57:52,873 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:57:53,727 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:57:54,636 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:57:55,536 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 21:58:16,611 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAAA750>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:58:17,573 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 21:58:18,532 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 21:58:19,388 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 21:58:20,154 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
+2024-12-01 21:58:41,223 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=basketball (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA98350>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:59:12,359 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=football
+2024-12-01 21:59:13,248 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=football
+2024-12-01 21:59:14,215 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=football
+2024-12-01 21:59:15,146 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=football
+2024-12-01 21:59:36,201 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=football (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FAB4550>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 21:59:37,216 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=tennis
+2024-12-01 21:59:38,154 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=tennis
+2024-12-01 21:59:39,113 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=tennis
+2024-12-01 21:59:40,089 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=tennis
+2024-12-01 22:00:01,151 - ERROR - Error fetching William Hill odds: HTTPSConnectionPool(host='api.williamhill.com', port=443): Max retries exceeded with url: /v1/odds?sport=tennis (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F1FA9B190>, 'Connection to api.williamhill.com timed out. (connect timeout=None)'))
+2024-12-01 22:00:02,137 - ERROR - Error fetching Pinnacle odds: 401 Client Error: Unauthorized for url: https://api.pinnacle.com/v1/odds?sport=basketball
+2024-12-01 22:00:03,111 - ERROR - Error fetching Betfair odds: 404 Client Error: Not Found for url: https://api.betfair.com/exchange/betting/rest/v1.0/listMarketBook?sport=basketball
+2024-12-01 22:00:03,977 - ERROR - Error fetching DraftKings odds: 403 Client Error: Forbidden for url: https://api.draftkings.com/v1/odds?sport=basketball
+2024-12-01 22:00:05,098 - ERROR - Error fetching FanDuel odds: 403 Client Error: Forbidden for url: https://api.fanduel.com/v1/odds?sport=basketball
